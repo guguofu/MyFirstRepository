@@ -1,2 +1,6 @@
-#Python
+#Python:
 *.py
+
+#Windows:
+env.ini
+env.txt
